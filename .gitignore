@@ -1,5 +1,6 @@
 *.dat
 *.data
 !final.data
-results/plots/*
+results/*
+!results/data
 logs/*
